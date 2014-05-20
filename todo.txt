@@ -14,3 +14,11 @@ else:
 2- Combine multiple tools
 
 3- More visible "Clear Button"
+
+4- Backup Dictionnary to store the original value in a .json file.
+
+5- Personal selections:
+	CheckBox
+	ColorChip / Name
+
+ 
