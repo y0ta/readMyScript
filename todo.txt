@@ -1,0 +1,7 @@
+
+
+Alert on Script unsaved:
+
+if nuke.Root().modified() == True: 
+	nuke.message('please Save your script first')
+else:
